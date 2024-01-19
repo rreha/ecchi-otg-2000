@@ -15,8 +15,8 @@ SilicaAndPina - PSV1000 Devkit tests
 Zexceil - for being interested in hardware manufacturing
 */
 
-#include <dolcesdkkern.h>
-#include <taihen.h>
+#include <vitasdkkern.h>
+#include "./include/taihen.h"
 
 #include <stdio.h>
 #include <string.h>
